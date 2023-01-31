@@ -31,3 +31,14 @@ header .logo {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li {
+    list-style: none;
+    margin-left: 20px;
+}
