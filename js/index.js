@@ -10,5 +10,4 @@ window.addEventListener('scroll', function(){
 
     stars.style.left = value * 0.25 + 'px';
     moon.style.top = value * 1.05 + 'px';
-    mountains_front.style.left = value * 1.05 + 'px'
 })
