@@ -111,3 +111,9 @@ section img#mountains_front {
 #btn:hover {
     background-color: #ded8f5;
 }
+
+.sec {
+    position: relative;
+    padding: 100px;
+    background: #1c0522;
+}
