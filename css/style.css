@@ -84,4 +84,8 @@ section img#moon {
 
 #text {
     position: absolute;
+    color: #fff;
+    white-space: nowrap;
+    font-size: 7.5vw;
+    z-index: 9;
 }
